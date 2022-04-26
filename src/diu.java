@@ -28,7 +28,7 @@ public class diu {
                 m1 = Integer.parseInt(mb10.getText());
                 m2 = Integer.parseInt(mb20.getText());
                 m3 = Integer.parseInt(mb25.getText());
-                total = m1 + m2;
+                totallll = m1 + m2;
                 totalCost.setText(String.valueOf(m1));
             }
         });
